@@ -36,21 +36,17 @@ Key attributes of the dataset include:
 
 ## 📈 Dashboards & Visualizations
 
-### 1. Overview Dashboard
-- **Geographic Distribution:** Map highlighting campaign financial activity across regions.
-- **Yearly Trends:** Line chart showing year-over-year (YoY) growth and decline in contributions.
-- **Contributions by Party:** Bar chart comparing contributions received by different political parties.
-- **Contributions vs. Expenditures:** Area chart comparing campaign spending efficiency across regions.
+### 1. Overview Dashboard - Key Metrics and Financial Trends
+<img width="1179" alt="Overview Dashboard" src="https://github.com/user-attachments/assets/dcb0ab7c-1917-4817-8bd7-5a0178705672" />
 
-### 2. Contributions Dashboard
-- **Party Efficiency Comparison:** Grouped bar chart comparing financial activity and cost-effectiveness across parties and regions.
-- **Efficiency Score Analysis:** Horizontal bar chart showing ROI for different committee categories.
-- **Monthly Burn Rate:** Vertical bar chart highlighting monthly expenditures by committee category.
+### 2. Contributions Analysis - Visualizing Contributions by Party
+<img width="1198" alt="Contributions Dashboard" src="https://github.com/user-attachments/assets/fb1f78a8-1568-49f8-83fd-9393ed644efa" />
 
-### 3. Efficiency Dashboard
-- **Contribution by Party and Region:** Bar chart showing contributions across parties and regions.
-- **Party Contributions Dominance:** Bubble chart visualizing party dominance in terms of contributions.
-- **Growth Analysis:** Scatter plot comparing financial growth trends over time.
+### 3. Spending Efficiency - Comparing Contributions vs Expenditures
+<img width="1193" alt="Spending Efficiency" src="https://github.com/user-attachments/assets/6930e340-dd1f-4aec-a0a8-873c92063b2d" />
+
+### 4. Financial Growth Analysis - ROI and Fundraising Trends
+<img width="1198" alt="Financial Growth Analysis" src="https://github.com/user-attachments/assets/8df0d36d-ee57-4299-9574-944e0cc3cb7c" />
 
 ---
 
